@@ -1,0 +1,14 @@
+{
+    "id": "LINAMJ",
+    "name": "Lina's Moar Jokers",
+    "author": ["fehlinaa"],
+    "description": "Adds cool new jokers that reference a couple of games",
+    "prefix": "linamj",
+    "main_file": "MoarJokers.lua",
+    "badge_colour": "af7cfc",
+    "badge_text_colour": "ffe945",
+    "dependencies": [
+        "Steamodded (>=1.0.0~ALPHA-1225a)"
+    ],
+    "version": "1.0.0"
+}
